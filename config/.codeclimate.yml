@@ -34,5 +34,5 @@ checks:
 plugins:
   checkstyle:
     enabled: true
-    config:
+    config: 'config/checkstyle/checkstyle.xml'
       file: "checkstyle.xml"
