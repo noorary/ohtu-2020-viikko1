@@ -1,4 +1,4 @@
-package main;
+/* package main;
 
 import ohtu.ohtuvarasto.Varasto;
 
@@ -58,3 +58,5 @@ public class Main {
         System.out.println("Mehuvarasto: " + mehua);
     }
 }
+
+**/
